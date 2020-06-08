@@ -25,6 +25,6 @@ pd.read_csv('')의 CSV file 경로를 자신의 저장 경로로 바꿔줘야 �
   * ./csv_file/Mall_Customers.csv
 * Mall_Customers(DBSCAN)
   * ./csv_file/Mall_Customers.csv
-* datasets(임시)
+* PCA_t-SNE_standardScale : (PCA와 t-SNE를 각각 standardScale 적용 시와 미적용시 결과 테스트)
   * ./csv_file/datasets.csv
 
